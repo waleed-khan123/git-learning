@@ -1,2 +1,3 @@
 Hello from day 4 practice
 This line was added from GitHub directly.
+This is a fetch vs pull test line
